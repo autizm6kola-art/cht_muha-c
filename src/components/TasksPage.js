@@ -134,7 +134,7 @@ function TasksPage({
       {/* Назад к выбору справа */}
         <button
           onClick={goBack}
-          className="back-link task-back-button"
+          className="back-to-menu"
         >
           ← Назад к выбору
         </button>
