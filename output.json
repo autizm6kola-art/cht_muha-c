@@ -432,7 +432,11 @@
     "id": 26,
     "content": [
       {
-        "word": "Бабушка-пчела",
+        "word": "Бабушка",
+        "type": "word"
+      },
+      {
+        "word": "пчела",
         "type": "word"
       },
       {
@@ -445,7 +449,11 @@
     "id": 27,
     "content": [
       {
-        "word": "Мухе-Цокотухе",
+        "word": "Мухе",
+        "type": "word"
+      },
+      {
+        "word": "Цокотухе",
         "type": "word"
       }
     ]
@@ -475,7 +483,11 @@
     "id": 31,
     "content": [
       {
-        "word": "Бабочка-красавица",
+        "word": "Бабочка",
+        "type": "word"
+      },
+      {
+        "word": "красавица",
         "type": "word"
       },
       {
@@ -666,7 +678,11 @@
     "id": 42,
     "content": [
       {
-        "word": "Паука-злодея",
+        "word": "Паука",
+        "type": "word"
+      },
+      {
+        "word": "злодея",
         "type": "word"
       },
       {
@@ -779,7 +795,11 @@
         "type": "word"
       },
       {
-        "word": "жуки-червяки",
+        "word": "жуки",
+        "type": "word"
+      },
+      {
+        "word": "червяки",
         "type": "word"
       }
     ]
@@ -788,7 +808,7 @@
     "id": 48,
     "content": [
       {
-        "word": "Испугалися",
+        "word": "Испугались",
         "type": "word"
       },
       {
@@ -826,7 +846,7 @@
     "id": 50,
     "content": [
       {
-        "word": "Разбежалися",
+        "word": "Разбежались",
         "type": "word"
       },
       {
@@ -983,7 +1003,11 @@
     "id": 59,
     "content": [
       {
-        "word": "Пропадай-погибай",
+        "word": "Пропадай",
+        "type": "word"
+      },
+      {
+        "word": "погибай",
         "type": "word"
       }
     ]
@@ -1172,7 +1196,11 @@
     "id": 68,
     "content": [
       {
-        "word": "Руки-ноги",
+        "word": "Руки",
+        "type": "word"
+      },
+      {
+        "word": "ноги",
         "type": "word"
       },
       {
@@ -1180,7 +1208,7 @@
         "type": "word"
       },
       {
-        "word": "Мухе",
+        "word": "мухе",
         "type": "word"
       },
       {
@@ -1629,7 +1657,11 @@
         "type": "punctuation"
       },
       {
-        "word": "душа-девица",
+        "word": "душа",
+        "type": "word"
+      },
+      {
+        "word": "девица",
         "type": "word"
       },
       {
@@ -1951,22 +1983,6 @@
       {
         "word": "!",
         "type": "punctuation"
-      },
-      {
-        "word": "бом",
-        "type": "word"
-      },
-      {
-        "word": "!",
-        "type": "punctuation"
-      },
-      {
-        "word": "бом",
-        "type": "word"
-      },
-      {
-        "word": "!",
-        "type": "punctuation"
       }
     ]
   },
@@ -2171,7 +2187,7 @@
     "id": 117,
     "content": [
       {
-        "word": "Тара-ра",
+        "word": "Тарара",
         "type": "word"
       },
       {
@@ -2179,7 +2195,7 @@
         "type": "punctuation"
       },
       {
-        "word": "тара-ра",
+        "word": "тарара",
         "type": "word"
       },
       {
@@ -2419,7 +2435,23 @@
     "id": 133,
     "content": [
       {
-        "word": "Тара-тара-тара-тара-таракашечки",
+        "word": "Тара",
+        "type": "word"
+      },
+      {
+        "word": "тара",
+        "type": "word"
+      },
+      {
+        "word": "тара",
+        "type": "word"
+      },
+      {
+        "word": "тара",
+        "type": "word"
+      },
+      {
+        "word": "таракашечки",
         "type": "word"
       },
       {
